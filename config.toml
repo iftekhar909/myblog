@@ -1,0 +1,11 @@
+baseURL = "http://localhost/"
+languageCode = "en-us"
+title = "My Hugo Blog"
+theme = "PaperMod"
+[pagination]
+  pageSize = 10
+
+[params]
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
